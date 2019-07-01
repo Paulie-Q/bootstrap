@@ -4,6 +4,8 @@
 
 # 1. Download the boostrap zip here: 
 
+- https://www.dropbox.com/s/9ydxebkxjldoi6m/bootstrap-328703.zip?dl=1
+
 # 2. Find your block chain folders:
 - Search your computer in the search bar for %appdata% as shown below, open it and follow the next bullet
 
